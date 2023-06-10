@@ -1,1 +1,0 @@
-# Book-Stores-SQL-Project
